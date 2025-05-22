@@ -1,5 +1,5 @@
 
-# Statistics Quiz 
+# Statistics Quiz 📝
 
 A lightweight multiple-choice quiz program that helps you review
 introductory statistics concepts.  
@@ -50,7 +50,7 @@ Deleting data/users/ resets all user progress.
 
 Function	Details
 Login / Register	Enter any username → profile file auto-created
-Random Quiz	10 questions/session, instant Correct / Incorrect pop-ups
+Random Quiz	10 questions per session, instant Correct / Incorrect pop-ups
 Wrong-Question Redo	Loops until every wrong question is answered correctly (or you exit)
 Persistent Storage	User history & wrong list saved as JSON
 Statistics Dashboard	Daily / Weekly / Monthly / Yearly accuracy plotted with Matplotlib (number above each point = attempts)
@@ -66,7 +66,7 @@ Open data/banks/statistics.json; each entry looks like:
 {
   "question": "Approximately what percentage of observations fall within ±2σ?",
   "options": ["68 %", "95 %", "99.7 %", "50 %"],
-  "answer": 1                     // zero-based index
+  "answer": 1
 }
 
 Add, remove, or edit questions as needed. The app reloads the file at start-up.
@@ -78,7 +78,7 @@ Add, remove, or edit questions as needed. The app reloads the file at start-up.
 Issue	Fix
 ModuleNotFoundError: matplotlib	pip install matplotlib
 Tk window too small / font tiny (macOS)	brew reinstall python-tk
-Statistics chart window empty	Complete at least one quiz so history exists
+Statistics chart window empty	Complete at least one quiz first
 
 
 ⸻
@@ -89,5 +89,4 @@ MIT — feel free to fork / adapt for educational purposes.
 
 ⸻
 
-Created by <Tao Ye> — COMP9001 Final Project, 2025.
-
+Created by Tao Ye — COMP9001 Final Project, 2025.
