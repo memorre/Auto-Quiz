@@ -28,7 +28,7 @@ On macOS, if the GUI fails to open, run brew reinstall python-tk.
 
 ⸻
 
-2 · Folder Layout
+## 2 · Folder Layout
 ```bash
 .
 ├─ main.py                 # entry point
@@ -49,21 +49,20 @@ Deleting data/users/ resets all user progress.
 
 ⸻
 
-3 · Key Features
+## 3 · Key Features
 
-``` bash
-Function	Details
-Login / Register	Enter any username → profile file auto-created
-Random Quiz	10 questions per session, instant Correct / Incorrect pop-ups
-Wrong-Question Redo	Loops until every wrong question is answered correctly (or you exit)
-Persistent Storage	User history & wrong list saved as JSON
-Statistics Dashboard	Daily / Weekly / Monthly / Yearly accuracy plotted with Matplotlib (number above each point = attempts)
-Finish & Save vs Exit	Finish & Save records progress; Exit skips the current question and returns to menu
-```
+| Function               | Details                                                                                                    |
+|------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Login / Register**   | Enter any username → profile file auto-created                                                              |
+| **Random Quiz**        | 10 questions per session, instant **Correct / Incorrect** pop-ups                                          |
+| **Wrong-Question Redo**| Loops until *every* wrong question is answered correctly (or you exit)                                     |
+| **Persistent Storage** | User history & wrong list saved as JSON                                                                    |
+| **Statistics Dashboard** | Daily / Weekly / Monthly / Yearly accuracy plotted with Matplotlib<br>(number above each point = attempts) |
+| **Finish & Save vs Exit** | *Finish & Save* records progress; *Exit* skips the current question and returns to menu                 |
 
 ⸻
 
-4 · Editing the Question Bank
+## 4 · Editing the Question Bank
 
 Open data/banks/statistics.json; each entry looks like:
 ``` bash
@@ -78,17 +77,17 @@ Add, remove, or edit questions as needed. The app reloads the file at start-up.
 
 ⸻
 
-5 · Troubleshooting
-``` bash
-Issue	Fix
-ModuleNotFoundError: matplotlib	pip install matplotlib
-Tk window too small / font tiny (macOS)	brew reinstall python-tk
-Statistics chart window empty	Complete at least one quiz first
-```
+## 5 · Troubleshooting
+
+| Issue                                   | Fix                           |
+|-----------------------------------------|-------------------------------|
+| `ModuleNotFoundError: matplotlib`       | `pip install matplotlib`      |
+| Tk window too small / font tiny (macOS) | `brew reinstall python-tk`    |
+| Statistics chart window empty           | Complete at least one quiz first |
 
 ⸻
 
-6 · License
+## 6 · License
 
 MIT — feel free to fork / adapt for educational purposes.
 
