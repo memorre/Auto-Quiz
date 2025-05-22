@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which measure of central tendency is defined as the middle value when data are ordered?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "The variance of a dataset is the square of which statistic?",
+    "options": [
+      "Standard deviation",
+      "Median",
+      "Interquartile range",
+      "Mean"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "In probability, P(A∩B) represents:",
+    "options": [
+      "Union of A and B",
+      "Intersection of A and B",
+      "Complement of A given B",
+      "Probability of A only"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "If two events are independent, P(A|B) equals:",
+    "options": [
+      "P(A)",
+      "P(B)",
+      "P(A) + P(B)",
+      "P(A)P(B)"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which plot is best for checking the normality of a dataset?",
+    "options": [
+      "Histogram",
+      "QQ‑plot",
+      "Boxplot",
+      "Scatter plot"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±1σ in a normal distribution?",
+    "options": [
+      "50 %",
+      "68 %",
+      "95 %",
+      "99.7 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±2σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±3σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statistic measures the strength and direction of a linear relationship between two variables?",
+    "options": [
+      "Covariance",
+      "Correlation coefficient",
+      "Regression slope",
+      "p‑value"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a p‑value below 0.05 typically indicate?",
+    "options": [
+      "Strong evidence against H0",
+      "Evidence for H0",
+      "Type I error",
+      "Sample size too small"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which non‑parametric test compares medians of two independent samples?",
+    "options": [
+      "t‑test",
+      "Mann‑Whitney U",
+      "ANOVA",
+      "Chi‑square"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In linear regression, R² represents:",
+    "options": [
+      "Slope",
+      "Intercept",
+      "Explained variance",
+      "Residual"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which distribution is used for the number of successes in n Bernoulli trials?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Exponential"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which distribution has equal mean and variance λ?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Uniform"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which sampling method ensures every population member has an equal chance of selection?",
+    "options": [
+      "Stratified",
+      "Cluster",
+      "Systematic",
+      "Simple random"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±1σ in a normal distribution?",
+    "options": [
+      "50 %",
+      "68 %",
+      "95 %",
+      "99.7 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±2σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±3σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statistic measures the strength and direction of a linear relationship between two variables?",
+    "options": [
+      "Covariance",
+      "Correlation coefficient",
+      "Regression slope",
+      "p‑value"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a p‑value below 0.05 typically indicate?",
+    "options": [
+      "Strong evidence against H0",
+      "Evidence for H0",
+      "Type I error",
+      "Sample size too small"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which non‑parametric test compares medians of two independent samples?",
+    "options": [
+      "t‑test",
+      "Mann‑Whitney U",
+      "ANOVA",
+      "Chi‑square"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In linear regression, R² represents:",
+    "options": [
+      "Slope",
+      "Intercept",
+      "Explained variance",
+      "Residual"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which distribution is used for the number of successes in n Bernoulli trials?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Exponential"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which distribution has equal mean and variance λ?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Uniform"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which sampling method ensures every population member has an equal chance of selection?",
+    "options": [
+      "Stratified",
+      "Cluster",
+      "Systematic",
+      "Simple random"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±1σ in a normal distribution?",
+    "options": [
+      "50 %",
+      "68 %",
+      "95 %",
+      "99.7 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±2σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±3σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statistic measures the strength and direction of a linear relationship between two variables?",
+    "options": [
+      "Covariance",
+      "Correlation coefficient",
+      "Regression slope",
+      "p‑value"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a p‑value below 0.05 typically indicate?",
+    "options": [
+      "Strong evidence against H0",
+      "Evidence for H0",
+      "Type I error",
+      "Sample size too small"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which non‑parametric test compares medians of two independent samples?",
+    "options": [
+      "t‑test",
+      "Mann‑Whitney U",
+      "ANOVA",
+      "Chi‑square"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In linear regression, R² represents:",
+    "options": [
+      "Slope",
+      "Intercept",
+      "Explained variance",
+      "Residual"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which distribution is used for the number of successes in n Bernoulli trials?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Exponential"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which distribution has equal mean and variance λ?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Uniform"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which sampling method ensures every population member has an equal chance of selection?",
+    "options": [
+      "Stratified",
+      "Cluster",
+      "Systematic",
+      "Simple random"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±1σ in a normal distribution?",
+    "options": [
+      "50 %",
+      "68 %",
+      "95 %",
+      "99.7 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±2σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±3σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statistic measures the strength and direction of a linear relationship between two variables?",
+    "options": [
+      "Covariance",
+      "Correlation coefficient",
+      "Regression slope",
+      "p‑value"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a p‑value below 0.05 typically indicate?",
+    "options": [
+      "Strong evidence against H0",
+      "Evidence for H0",
+      "Type I error",
+      "Sample size too small"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which non‑parametric test compares medians of two independent samples?",
+    "options": [
+      "t‑test",
+      "Mann‑Whitney U",
+      "ANOVA",
+      "Chi‑square"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "In linear regression, R² represents:",
+    "options": [
+      "Slope",
+      "Intercept",
+      "Explained variance",
+      "Residual"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which distribution is used for the number of successes in n Bernoulli trials?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Exponential"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which distribution has equal mean and variance λ?",
+    "options": [
+      "Normal",
+      "Binomial",
+      "Poisson",
+      "Uniform"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which sampling method ensures every population member has an equal chance of selection?",
+    "options": [
+      "Stratified",
+      "Cluster",
+      "Systematic",
+      "Simple random"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±1σ in a normal distribution?",
+    "options": [
+      "50 %",
+      "68 %",
+      "95 %",
+      "99.7 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±2σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Approximately what percentage of observations fall within ±3σ in a normal distribution?",
+    "options": [
+      "68 %",
+      "95 %",
+      "99.7 %",
+      "50 %"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which statistic measures the strength and direction of a linear relationship between two variables?",
+    "options": [
+      "Covariance",
+      "Correlation coefficient",
+      "Regression slope",
+      "p‑value"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a p‑value below 0.05 typically indicate?",
+    "options": [
+      "Strong evidence against H0",
+      "Evidence for H0",
+      "Type I error",
+      "Sample size too small"
+    ],
+    "answer": 0
+  }
+]
