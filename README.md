@@ -20,7 +20,9 @@ pip install matplotlib          # Tkinter ships with Python
 
 # launch
 python main.py
+```
 
+---
 Python 3.9+ is recommended.
 On macOS, if the GUI fails to open, run brew reinstall python-tk.
 
