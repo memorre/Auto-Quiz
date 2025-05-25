@@ -1,11 +1,6 @@
 
-# Statistics Quiz 📝
+# Statistics Quiz 
 
-A lightweight multiple-choice quiz program that helps you review
-introductory statistics concepts.  
-Developed as the **COMP9001 Python Project Challenge (5 %)** to
-demonstrate object-oriented design, file I/O, simple data analytics, and a
-GUI built with Tkinter.
 
 ---
 
